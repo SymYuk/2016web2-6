@@ -9,7 +9,7 @@ http.createServer(function(req,res){
 				'<title>あじゅううううる</title>\n'+
 			'</head>\n'+
 			'<body>\n'+
-				'<h1>Hello World!</h1>\n+
+				'<h1>Hello World!</h1>\n'+
 			'</body>\n'+
 		'</html>\n'+;
 	res.end(response_str);
