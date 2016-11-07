@@ -5,7 +5,7 @@ http.createServer(function(req,res){
 		'<!DOCTYPE html>\n'+
 		'<html>\n'+
 			'<head>\n'+
-				'<meta charset="UTF-8">\n'+
+				'<meta charset="UTF-8" />\n'+
 				'<title>あじゅううううる</title>\n'+
 			'</head>\n'+
 			'<body>\n'+
