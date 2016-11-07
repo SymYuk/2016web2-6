@@ -10,6 +10,7 @@ http.createServer(function(req,res){
 			'</head>\n'+
 			'<body>\n'+
 				'<h1>Hello World!</h1>\n'+
+	    			'<h2>こんにちは世界!!!!!!!!!!!!!!!!!!!11</h2>\n'+
 			'</body>\n'+
 		'</html>\n';
 	res.end(response_str);
